@@ -58,6 +58,8 @@ public class Genero {
         System.out.println(this.pais);
         System.out.println(this.artista);
         System.out.println(this.festival);
+
+        //nuevos cambios para agregar con commit y push
     }
 
 }
